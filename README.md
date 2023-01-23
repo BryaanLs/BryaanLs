@@ -9,7 +9,7 @@
 
 <br>
 
-![Bryan Soares GitHub stats](https://github-readme-stats.vercel.app/api?username=bryaanls&show_icons=true&theme=dracula)
+
 
 
 <br>
@@ -45,5 +45,3 @@
 </div>
 
 <br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryaanls&layout=compact)](https://github.com/bryaanls/github-readme-stats)
