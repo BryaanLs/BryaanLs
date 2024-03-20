@@ -47,7 +47,6 @@
        <img align="center" alt="GCP" src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white">
        <img align="center" alt="GCP" src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white">
        <img align="center" alt="GCP" src="https://img.shields.io/badge/Miro-050038.svg?style=for-the-badge&logo=Miro&logoColor=white">
-       <img align="center" alt="GCP" src="https://img.shields.io/badge/Make-6D00CC.svg?style=for-the-badge&logo=Make&logoColor=white">
        <img align="center" alt="GCP" src="https://img.shields.io/badge/DocuSign-FFCC22.svg?style=for-the-badge&logo=DocuSign&logoColor=black">
     
 
