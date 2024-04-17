@@ -1,6 +1,6 @@
 # Welcome :)
   
-# ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Seja+bem+vindo(a)!;Sou+um+desenvolvedor+backend;Espero+que+desfrute+de+algo+por+aqui+:%29)
+# ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=U2VqYSBiZW0gdmluZG8oYSkh
 
 
 
