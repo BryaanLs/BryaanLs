@@ -1,6 +1,6 @@
 # Welcome :)
   
-# ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=<Buffer+53+65+6a+61+20+62+65+6d+20+76+69+6e+64+6f+28+61+29+21>)
+# ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=83+101+106+97+32+98+101+109+32+118+105+110+100+111+40+97+41+33)
 
 
 
