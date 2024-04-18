@@ -1,5 +1,5 @@
- 
-# ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=3000&lines=<Buffer+55+32+56+71+59+53+42+69+5a+57+30+67+64+6d+6c+75+5a+47+38+6f+59+53+6b+68>)
+
+# ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=3000&color=00FF00&size=36&center=true&vCenter=true&width=2100&lines=<Buffer+55+32+56+71+59+53+42+69+5a+57+30+67+64+6d+6c+75+5a+47+38+6f+59+53+6b+68>)
 
 
 
