@@ -5,7 +5,7 @@
 
 
  
-### Tecnologias que uso no meu dia a dia
+### BackEnd
     
 <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: left;">
     <img align="center" alt="Node" src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white">
@@ -15,11 +15,10 @@
 </div>
 <br>
 
-### Bibliotecas
+### FrontEnd
 <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: left;">
    <img align="center" alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black">
    <img align="center" alt="React" src="https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white">
-
 </div>
 <br>
 
