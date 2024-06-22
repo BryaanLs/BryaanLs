@@ -2,61 +2,52 @@
 # ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=3000&color=00FF00&size=36&center=true&vCenter=true&width=2100&lines=<Buffer+55+32+56+71+59+53+42+69+5a+57+30+67+64+6d+6c+75+5a+47+38+6f+59+53+6b+68>)
 
 
+### Trabalho atualmente com:
+[![My Skills](https://skillicons.dev/icons?i=nodejs,js,ts,express,jest,gcp,env)](https://skillicons.dev)
 
-
- 
 ### BackEnd
-    
-<div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: left;">
-    <img align="center" alt="Node" src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white">
-    <img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black">
-    <img align="center" alt="TS" src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white">
-
-</div>
+[![My Skills](https://skillicons.dev/icons?i=nodejs,js,ts,python)](https://skillicons.dev)
 <br>
 
 ### FrontEnd
-<div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: left;">
-   <img align="center" alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black">
-   <img align="center" alt="React" src="https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white">
-</div>
+[![My Skills](https://skillicons.dev/icons?i=react,bootstrap,vite,figma)](https://skillicons.dev)
 <br>
 
-### Serviços de Cloud
-<div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: left;">
-       <img align="center" alt="GCP" src="https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=white">
-    <img align="center" alt="FIREBASE" src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black">
-
-</div>
+### Estou estudando
+[![My Skills](https://skillicons.dev/icons?i=nest)](https://skillicons.dev)
 <br>
 
 
-### Testes
-```javascript
-// EM BREVE
-```
-<br>
-
-### Extras
-<div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: left;">
-       <img align="center" alt="GCP" src="https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white">
-       <img align="center" alt="GCP" src="https://img.shields.io/badge/.ENV-ECD53F.svg?style=for-the-badge&logo=dotenv&logoColor=black">
-       <img align="center" alt="GCP" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white">
-       <img align="center" alt="GCP" src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white">
-       <img align="center" alt="GCP" src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white">
-       <img align="center" alt="GCP" src="https://img.shields.io/badge/Miro-050038.svg?style=for-the-badge&logo=Miro&logoColor=white">
-       <img align="center" alt="GCP" src="https://img.shields.io/badge/DocuSign-FFCC22.svg?style=for-the-badge&logo=DocuSign&logoColor=black">
-    
-
-</div>
-
+### Minhas Ferramentas
+[<img height="48px" width="48px" alt="Icone Postman" src="https://i.postimg.cc/QNyBTNVk/postman.png"/>](https://www.postman.com)
+[<img height="48px" width="48px" alt="Icone Git" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"/>](https://git-scm.com)
+[<img height="48px" width="48px" alt="Icone gcp	" src="https://skillicons.dev/icons?i=gcp"/>](https://nodejs.org)
+<img height="48px" width="48px" alt="Icone gcp	" src="https://skillicons.dev/icons?i=firebase"/>
+<img height="48px" width="48px" alt="Icone gcp	" src="https://skillicons.dev/icons?i=ubuntu"/>
+<img height="48px" width="48px" alt="Icone gcp	" src="https://skillicons.dev/icons?i=vscode"/>
 <br>
 <br>
- 
 
+#### Experiência Profissional:
+Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN9iGhD6F-34TbUGWcZIk4cOKWBYdM_NghoAI4t3pYww&s"/>](https://alest.com.br/)
+**Estágio em Desenvolvimento** \
+[**Alest**](https://alest.com.br/) • Desenvolvedor de software \
+Competências: `NodeJS`, `Google Cloud Plataform`, `React`, `TypeScript`,
+<br/> `GraphQL`, `Rest API`, `Firebase`, `P.O.O`
+
+#### Formação Acadêmica:
+Na visão geral abaixo você encontrará minha formação acadêmica:
+ [<img align="left"  width="94px" alt="Warpnet" src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Bras%C3%A3o_PUCPR.png"/>](https://www.pucpr.br/)
+
+
+
+**Analise e Desenvolvimento e Sistemas** \
+[**PUCPR**](https://www.pucpr.br/) • 5º Semestre 
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="center"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{bryaanls}/count.svg" /></p> 
 <br></div>
 
