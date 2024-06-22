@@ -41,10 +41,13 @@ Competências: `NodeJS`, `Google Cloud Plataform`, `React`, `TypeScript`,
 Na visão geral abaixo você encontrará minha formação acadêmica:
  [<img align="left"  width="94px" alt="Warpnet" src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Bras%C3%A3o_PUCPR.png"/>](https://www.pucpr.br/)
 
-
-
 **Analise e Desenvolvimento e Sistemas** \
-[**PUCPR**](https://www.pucpr.br/) • 5º Semestre 
+[**PUCPR**](https://www.pucpr.br/) • 5º Semestre \
+<br>
+<br>
+### Entre em contato:
+[<img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/bryaanls/)
+
 
 <div align="center">
 <br><p align="center"><b>Visitors Count</b></p>  
