@@ -3,7 +3,7 @@
 
 
 ### Trabalho atualmente com:
-[![My Skills](https://skillicons.dev/icons?i=nodejs,js,ts,express,jest,gcp,env)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,js,ts,express,gcp)](https://skillicons.dev)
 
 ### BackEnd
 [![My Skills](https://skillicons.dev/icons?i=nodejs,js,ts,python)](https://skillicons.dev)
@@ -14,7 +14,7 @@
 <br>
 
 ### Estou estudando
-[![My Skills](https://skillicons.dev/icons?i=nest)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=jest,nest)](https://skillicons.dev)
 <br>
 
 
