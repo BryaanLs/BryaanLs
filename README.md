@@ -2,11 +2,11 @@
 # ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=3000&color=00FF00&size=36&center=true&vCenter=true&width=2100&lines=<Buffer+55+32+56+71+59+53+42+69+5a+57+30+67+64+6d+6c+75+5a+47+38+6f+59+53+6b+68>)
 
 
-### Trabalho atualmente com:
-[![My Skills](https://skillicons.dev/icons?i=nodejs,js,ts,express,gcp)](https://skillicons.dev)
-
 ### BackEnd
-[![My Skills](https://skillicons.dev/icons?i=nodejs,js,ts,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,js,ts,express,gcp,python)](https://skillicons.dev)
+
+### Databases
+[![My Skills](https://skillicons.dev/icons?i=firebase,mongodb,redis)](https://skillicons.dev)
 <br>
 
 ### FrontEnd
@@ -14,15 +14,13 @@
 <br>
 
 ### Estou estudando
-[![My Skills](https://skillicons.dev/icons?i=jest,nest)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=jest,nest,docker)](https://skillicons.dev)
 <br>
 
 
 ### Minhas Ferramentas
 [<img height="48px" width="48px" alt="Icone Postman" src="https://i.postimg.cc/QNyBTNVk/postman.png"/>](https://www.postman.com)
 [<img height="48px" width="48px" alt="Icone Git" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"/>](https://git-scm.com)
-[<img height="48px" width="48px" alt="Icone gcp	" src="https://skillicons.dev/icons?i=gcp"/>](https://nodejs.org)
-<img height="48px" width="48px" alt="Icone gcp	" src="https://skillicons.dev/icons?i=firebase"/>
 <img height="48px" width="48px" alt="Icone gcp	" src="https://skillicons.dev/icons?i=ubuntu"/>
 <img height="48px" width="48px" alt="Icone gcp	" src="https://skillicons.dev/icons?i=vscode"/>
 <br>
