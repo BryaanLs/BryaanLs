@@ -34,6 +34,13 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 [**Alest**](https://alest.com.br/) • Desenvolvedor de software \
 Competências: `NodeJS`, `Google Cloud Plataform`, `React`, `TypeScript`,
 <br/> `GraphQL`, `Rest API`, `Firebase`, `P.O.O`
+<br />
+<br />
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://nextfusion.com.br/assets/img/logo-branca.svg"/>](	https://nextfusion.com.br/assets/img/logo-branca.svg)
+**Desenvolvedor FrontEnd** \
+[**Next Fusion**](https://nextfusion.com.br/) • Desenvolvedor FrontEnd \
+Competências: `NodeJS`, `Javascript`, `React`, `TypeScript`,
+<br/> `Hospedagem`, `SCSS`,`Bootstrap`
 
 #### Formação Acadêmica:
 Na visão geral abaixo você encontrará minha formação acadêmica:
