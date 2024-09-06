@@ -3,7 +3,7 @@
 
 
 ### BackEnd
-[![My Skills](https://skillicons.dev/icons?i=nodejs,js,ts,express,gcp,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,js,ts,express,gcp,python,docker)](https://skillicons.dev)
 
 ### Databases
 [![My Skills](https://skillicons.dev/icons?i=firebase,mongodb,redis)](https://skillicons.dev)
@@ -14,7 +14,7 @@
 <br>
 
 ### Estou estudando
-[![My Skills](https://skillicons.dev/icons?i=jest,nest,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=jest,nest)](https://skillicons.dev)
 <br>
 
 
