@@ -29,17 +29,25 @@
 #### Experiência Profissional:
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Eletromidia_logo.png"/>](https://eletromidia.com.br/)
+**Desenvolvedor BackEnd Pleno** \
+[**Eletromidia**](https://eletromidia.com.br/) \
+Competências: `NodeJS`, `Google Cloud Plataform`, `TypeScript`,
+<br/> `Rest API`, `MongoDB`
+<br />
+<br />
+
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN9iGhD6F-34TbUGWcZIk4cOKWBYdM_NghoAI4t3pYww&s"/>](https://alest.com.br/)
 **Desenvolvedor BackEnd** \
-[**Alest**](https://alest.com.br/) • Desenvolvedor de software \
+[**Alest**](https://alest.com.br/) \
 Competências: `NodeJS`, `Google Cloud Plataform`, `React`, `TypeScript`,
-<br/> `GraphQL`, `Rest API`, `Firebase`, `P.O.O`
+<br/> `GraphQL`, `Rest API`, `Firebase`
 <br />
 <br />
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://nextfusion.com.br/assets/img/logo-branca.svg"/>](	https://nextfusion.com.br/assets/img/logo-branca.svg)
 **Desenvolvedor FrontEnd** \
-[**Next Fusion**](https://nextfusion.com.br/) • Desenvolvedor FrontEnd \
-Competências: `NodeJS`, `Javascript`, `React`, `TypeScript`,
+[**Next Fusion**](https://nextfusion.com.br/) \
+Competências: `NodeJS`, `Javascript`, `Vue`, `TypeScript`,
 <br/> `Hospedagem`, `SCSS`,`Bootstrap`
 
 #### Formação Acadêmica:
