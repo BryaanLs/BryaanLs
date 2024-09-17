@@ -52,7 +52,7 @@ Competências: `NodeJS`, `Javascript`, `Vue`, `TypeScript`,
 
 #### Formação Acadêmica:
 Na visão geral abaixo você encontrará minha formação acadêmica:
- [<img align="left"  width="94px" alt="Warpnet" src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Bras%C3%A3o_PUCPR.png"/>](https://www.pucpr.br/)
+ [<img align="left"  width="94px" alt="Warpnet" src="https://play-lh.googleusercontent.com/dgJL67nlaWsk8GBB2Kq6RtG0XjJPY8QJ0F6LuHkas4dz5lY9lnjJOc48FhoU5Hl0uEo"/>](https://www.pucpr.br/)
 
 **Analise e Desenvolvimento e Sistemas** \
 [**PUCPR**](https://www.pucpr.br/) • 5º Semestre \
