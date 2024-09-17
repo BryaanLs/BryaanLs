@@ -36,7 +36,6 @@ Competências: `NodeJS`, `Google Cloud Plataform`, `TypeScript`,
 <br/> `Rest API`, `MongoDB`
 <br />
 <br />
-
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN9iGhD6F-34TbUGWcZIk4cOKWBYdM_NghoAI4t3pYww&s"/>](https://alest.com.br/)
 **Desenvolvedor BackEnd** \
 [**Alest**](https://alest.com.br/) \
@@ -51,11 +50,10 @@ Competências: `NodeJS`, `Javascript`, `Vue`, `TypeScript`,
 <br/> `Hospedagem`, `SCSS`,`Bootstrap`
 
 #### Formação Acadêmica:
-Na visão geral abaixo você encontrará minha formação acadêmica:
  [<img align="left"  width="94px" alt="Warpnet" src="https://play-lh.googleusercontent.com/dgJL67nlaWsk8GBB2Kq6RtG0XjJPY8QJ0F6LuHkas4dz5lY9lnjJOc48FhoU5Hl0uEo"/>](https://www.pucpr.br/)
-
+**PUCPR - Pontifícia Universidade Católica do Paraná** \
 **Analise e Desenvolvimento e Sistemas** \
-[**PUCPR**](https://www.pucpr.br/) • 5º Semestre \
+[**PUCPR**](https://www.pucpr.br/) • 6º Semestre \
 <br>
 <br>
 ### Entre em contato:
