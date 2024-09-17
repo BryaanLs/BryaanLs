@@ -44,7 +44,7 @@ Competências: `NodeJS`, `Google Cloud Plataform`, `React`, `TypeScript`,
 <br/> `GraphQL`, `Rest API`, `Firebase`
 <br />
 <br />
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://nextfusion.com.br/assets/img/logo-branca.svg"/>](	https://nextfusion.com.br/assets/img/logo-branca.svg)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://avatars.githubusercontent.com/u/129233354?s=64&v=4"/>](https://nextfusion.com.br/)
 **Desenvolvedor FrontEnd** \
 [**Next Fusion**](https://nextfusion.com.br/) \
 Competências: `NodeJS`, `Javascript`, `Vue`, `TypeScript`,
