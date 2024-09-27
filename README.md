@@ -3,7 +3,7 @@
 
 
 ### BackEnd
-[![My Skills](https://skillicons.dev/icons?i=nodejs,js,ts,express,gcp,python,docker,bun)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,bun,js,ts,express,gcp,docker)](https://skillicons.dev)
 
 ### Databases
 [![My Skills](https://skillicons.dev/icons?i=firebase,mongodb,redis)](https://skillicons.dev)
